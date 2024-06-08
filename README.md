@@ -31,7 +31,7 @@ A simple currency converter which find the <h2>Exchange rates </h2> in the web a
 - HTML
 - CSS
 - JavaScript
-- API for exchange rates (mention the API you used)
+- API for exchange rates and flags
 - (Any other libraries or technologies used)
 
 ## Installation
